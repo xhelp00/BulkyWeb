@@ -1,7 +1,8 @@
-using BulkyWeb.Data;
-using BulkyWeb.Models;
+
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Identity.Client;
+using Bulky.DataAccess.Data;
+using Bulky.Models;
 
 namespace BulkyWeb.Controllers
 {
