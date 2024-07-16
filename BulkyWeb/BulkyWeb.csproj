@@ -25,6 +25,7 @@
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="8.0.0" />
     <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="8.0.1" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="8.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.3" />
 	<ProjectReference Include="../Bulky.Models/Bulky.Models.csproj" />
 	<ProjectReference Include="../Bulky.DataAccess/Bulky.DataAccess.csproj" />
 	<ProjectReference Include="../Bulky.Utility/Bulky.Utility.csproj" />
